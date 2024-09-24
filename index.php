@@ -8,4 +8,8 @@ class Dog {
         $this->name = $name;
         $this->breed = $breed;
     }
+
+    public function bark(){
+        echo "bark bark";
+    }
 }
