@@ -11,7 +11,7 @@ class Dog {
 
     public function bark(){
         echo "bark bark";
-    }
+    }//
 
     #cascads
 }
